@@ -1,0 +1,6 @@
+﻿1.Conditional Statements
+   if,else if ,switch 
+2.Loops  
+  for, while ,do while,for each
+3.operators
+4.type casting
